@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjan-bm/">Portfolio</a> -
+  <a href="https://sanjanb.github.io/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sanjan-bm/">LinkedIn</a> - 
   <a href="https://x.com/SanjanAcharya7">Twitter</a> -
   <a href="mailto:sanjanacharaya1234@gmail.com">Contact me</a> 
